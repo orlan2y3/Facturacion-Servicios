@@ -1,0 +1,10 @@
+e:\OneDrive\Documents\Visual Studio 2013\Projects\ConexionPostGres\ConexionPostGres\bin\x86\Debug\ConexionPostGres.exe.config
+e:\OneDrive\Documents\Visual Studio 2013\Projects\ConexionPostGres\ConexionPostGres\bin\x86\Debug\ConexionPostGres.exe
+e:\OneDrive\Documents\Visual Studio 2013\Projects\ConexionPostGres\ConexionPostGres\bin\x86\Debug\ConexionPostGres.pdb
+e:\OneDrive\Documents\Visual Studio 2013\Projects\ConexionPostGres\ConexionPostGres\bin\x86\Debug\ConexionPostGres.xml
+e:\OneDrive\Documents\Visual Studio 2013\Projects\ConexionPostGres\ConexionPostGres\obj\x86\Debug\WindowsApplication1.ConexionPostgreSQL.resources
+e:\OneDrive\Documents\Visual Studio 2013\Projects\ConexionPostGres\ConexionPostGres\obj\x86\Debug\WindowsApplication1.Resources.resources
+e:\OneDrive\Documents\Visual Studio 2013\Projects\ConexionPostGres\ConexionPostGres\obj\x86\Debug\ConexionPostGres.vbproj.GenerateResource.Cache
+e:\OneDrive\Documents\Visual Studio 2013\Projects\ConexionPostGres\ConexionPostGres\obj\x86\Debug\ConexionPostGres.exe
+e:\OneDrive\Documents\Visual Studio 2013\Projects\ConexionPostGres\ConexionPostGres\obj\x86\Debug\ConexionPostGres.xml
+e:\OneDrive\Documents\Visual Studio 2013\Projects\ConexionPostGres\ConexionPostGres\obj\x86\Debug\ConexionPostGres.pdb
