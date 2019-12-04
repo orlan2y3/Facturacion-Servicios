@@ -486,4 +486,8 @@ Public Class Editar_Cotizacion
             MsgBox(ex.Message)
         End Try
     End Sub
+
+    Private Sub lbusuarioquefacturo_Click(sender As Object, e As EventArgs) Handles lbusuarioquefacturo.Click
+
+    End Sub
 End Class

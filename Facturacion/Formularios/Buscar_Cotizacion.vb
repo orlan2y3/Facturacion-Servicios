@@ -97,4 +97,7 @@ Public Class Buscar_Cotizacion
         End Try
     End Sub
 
+    Private Sub dgvbuscar_cotizacion_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgvbuscar_cotizacion.CellContentClick
+
+    End Sub
 End Class
