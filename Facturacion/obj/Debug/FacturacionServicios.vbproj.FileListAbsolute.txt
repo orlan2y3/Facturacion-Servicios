@@ -251,3 +251,4 @@ C:\Users\o.reynoso\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\C
 C:\Users\o.reynoso\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
 C:\Users\o.reynoso\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\ShockwaveFlashObjects.dll
 C:\Users\o.reynoso\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\o.reynoso\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.vbprojAssemblyReference.cache
