@@ -235,3 +235,38 @@ C:\Users\o.reynoso\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\F
 C:\Users\o.reynoso\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.exe
 C:\Users\o.reynoso\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.xml
 C:\Users\o.reynoso\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.pdb
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\C A M I L A - Facturacion de Servicios.exe.config
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\C A M I L A - Facturacion de Servicios.exe
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\C A M I L A - Facturacion de Servicios.pdb
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\C A M I L A - Facturacion de Servicios.xml
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\stdole.dll
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.vbprojAssemblyReference.cache
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Buscar_Cotizacion_facturacion.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.frmDatosEmpresa.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.frmMantCotizacion.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.frmMantFacturas.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.frmNCF.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Reportes.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Editar_Factura.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Form1.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.ReporteCotizacion.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.ReporteFacturas.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Seguridad_Usuarios.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Seguridad_Anular_Factura.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Nosotros.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Buscar_Cotizacion.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Cotizacion.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Editar_Cotizacion.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Parametros.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Usuarios.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Entrada.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Buscar_Factura.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.frmMenu.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Resources.resources
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.vbproj.GenerateResource.cache
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.vbproj.CoreCompileInputs.cache
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.vbproj.CopyComplete
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.exe
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.xml
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.pdb
+D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\ShockwaveFlashObjects.dll

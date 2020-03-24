@@ -452,7 +452,6 @@ Partial Class Form1
         Me.mtbfecha.Location = New System.Drawing.Point(143, 22)
         Me.mtbfecha.Mask = "00/00/0000"
         Me.mtbfecha.Name = "mtbfecha"
-        Me.mtbfecha.ReadOnly = True
         Me.mtbfecha.Size = New System.Drawing.Size(69, 22)
         Me.mtbfecha.TabIndex = 1
         Me.mtbfecha.ValidatingType = GetType(Date)
