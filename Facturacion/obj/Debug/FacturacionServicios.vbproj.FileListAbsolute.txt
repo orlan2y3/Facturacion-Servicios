@@ -270,3 +270,37 @@ D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Fac
 D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.xml
 D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.pdb
 D:\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\C A M I L A - Facturacion de Servicios.exe.config
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\C A M I L A - Facturacion de Servicios.exe
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\C A M I L A - Facturacion de Servicios.pdb
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\C A M I L A - Facturacion de Servicios.xml
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\bin\Debug\stdole.dll
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Buscar_Cotizacion_facturacion.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.frmDatosEmpresa.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.frmMantCotizacion.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.frmMantFacturas.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.frmNCF.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Reportes.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Editar_Factura.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Form1.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.ReporteCotizacion.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.ReporteFacturas.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Seguridad_Usuarios.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Seguridad_Anular_Factura.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Nosotros.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Buscar_Cotizacion.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Cotizacion.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Editar_Cotizacion.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Parametros.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Usuarios.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Entrada.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Buscar_Factura.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.frmMenu.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Resources.resources
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.vbproj.GenerateResource.cache
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.vbproj.CoreCompileInputs.cache
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.vbproj.CopyComplete
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.exe
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.xml
+C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.pdb
