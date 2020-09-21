@@ -22,7 +22,9 @@ Partial Class frmDatosEmpresa
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmDatosEmpresa))
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.Label3 = New System.Windows.Forms.Label()
         Me.txtEmail = New System.Windows.Forms.TextBox()
         Me.Label8 = New System.Windows.Forms.Label()
         Me.txtEslogan = New System.Windows.Forms.TextBox()
@@ -37,7 +39,6 @@ Partial Class frmDatosEmpresa
         Me.Label2 = New System.Windows.Forms.Label()
         Me.btsalir = New System.Windows.Forms.Button()
         Me.btguardar = New System.Windows.Forms.Button()
-        Me.Label3 = New System.Windows.Forms.Label()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -62,6 +63,16 @@ Partial Class frmDatosEmpresa
         Me.GroupBox1.Size = New System.Drawing.Size(720, 227)
         Me.GroupBox1.TabIndex = 10
         Me.GroupBox1.TabStop = False
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(7, 0)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(166, 18)
+        Me.Label3.TabIndex = 11
+        Me.Label3.Text = "Datos de la Empresa"
         '
         'txtEmail
         '
@@ -191,16 +202,6 @@ Partial Class frmDatosEmpresa
         Me.btguardar.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         Me.btguardar.UseVisualStyleBackColor = True
         '
-        'Label3
-        '
-        Me.Label3.AutoSize = True
-        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(7, 0)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(166, 18)
-        Me.Label3.TabIndex = 11
-        Me.Label3.Text = "Datos de la Empresa"
-        '
         'frmDatosEmpresa
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -210,6 +211,7 @@ Partial Class frmDatosEmpresa
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.btsalir)
         Me.Controls.Add(Me.btguardar)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmDatosEmpresa"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Registrar Datos de la Empresa"
