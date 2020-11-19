@@ -179,7 +179,7 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>CrystalReport1.rpt</DependentUpon>
-      <SubType>Form</SubType>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Formularios\Editar_Factura.Designer.vb">
       <DependentUpon>Editar_Factura.vb</DependentUpon>
