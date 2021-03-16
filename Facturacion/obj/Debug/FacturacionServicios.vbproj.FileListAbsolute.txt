@@ -304,4 +304,3 @@ C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\Factu
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.exe
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.xml
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\C A M I L A - Facturacion de Servicios.pdb
-C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.vbprojAssemblyReference.cache
