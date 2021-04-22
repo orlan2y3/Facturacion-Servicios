@@ -282,16 +282,13 @@ C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\Factu
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.frmMantFacturas.resources
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.frmNCF.resources
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Reportes.resources
-C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Editar_Factura.resources
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Form1.resources
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.ReporteCotizacion.resources
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.ReporteFacturas.resources
-C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Seguridad_Usuarios.resources
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Seguridad_Anular_Factura.resources
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Nosotros.resources
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Buscar_Cotizacion.resources
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Cotizacion.resources
-C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Editar_Cotizacion.resources
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Parametros.resources
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Usuarios.resources
 C:\Users\orlan\OneDrive\VB.NET\Facturacion Servicios\Facturacion\obj\Debug\FacturacionServicios.Entrada.resources

@@ -96,8 +96,8 @@
                 usuarios.Show()
             Else
                 DTO.donde_dio_click = "productos"
-                Dim seguridad_usuario As New Seguridad_Usuarios
-                seguridad_usuario.ShowDialog()
+                'Dim seguridad_usuario As New Seguridad_Usuarios
+                'seguridad_usuario.ShowDialog()
 
                 If DTO.usuario_activo_inactivo = "" Then
                     Return
@@ -157,8 +157,8 @@
                 parametros.Show()
             Else
                 DTO.donde_dio_click = "parametros"
-                Dim seguridad_usuario As New Seguridad_Usuarios
-                seguridad_usuario.ShowDialog()
+                'Dim seguridad_usuario As New Seguridad_Usuarios
+                'seguridad_usuario.ShowDialog()
 
                 If DTO.usuario_activo_inactivo = "" Then
                     Return

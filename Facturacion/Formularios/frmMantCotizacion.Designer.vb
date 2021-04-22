@@ -108,7 +108,6 @@ Partial Class frmMantCotizacion
         Me.mtbfecha.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.mtbfecha.Location = New System.Drawing.Point(630, 22)
         Me.mtbfecha.Name = "mtbfecha"
-        Me.mtbfecha.ReadOnly = True
         Me.mtbfecha.Size = New System.Drawing.Size(69, 22)
         Me.mtbfecha.TabIndex = 163
         '

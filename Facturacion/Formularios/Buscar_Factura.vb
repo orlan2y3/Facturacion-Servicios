@@ -148,5 +148,4 @@ Public Class Buscar_Factura
         End Try
 
     End Sub
-
 End Class

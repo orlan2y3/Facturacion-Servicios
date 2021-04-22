@@ -218,6 +218,12 @@ Public Class Form1
                 Return
             End If
 
+            If Not FechaValida(mtbfecha.Text) Then
+                MsgBox("Esta fecha de factura no es valida", MsgBoxStyle.Information)
+                mtbfecha.Focus()
+                Return
+            End If
+
             Dim IdComprobante As Integer = 0
             Dim PorcientoItbis As Double = 0
             Dim ValidaHasta As String = ""

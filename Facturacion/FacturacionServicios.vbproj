@@ -181,12 +181,6 @@
       <DependentUpon>CrystalReport1.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Formularios\Editar_Factura.Designer.vb">
-      <DependentUpon>Editar_Factura.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Formularios\Editar_Factura.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="Formularios\Factura.Designer.vb">
       <DependentUpon>Factura.vb</DependentUpon>
     </Compile>
@@ -203,12 +197,6 @@
       <DependentUpon>ReporteFacturas.vb</DependentUpon>
     </Compile>
     <Compile Include="Formularios\ReporteFacturas.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Formularios\Seguridad_Usuarios.Designer.vb">
-      <DependentUpon>Seguridad_Usuarios.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Formularios\Seguridad_Usuarios.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formularios\Seguridad_Anular_Factura.Designer.vb">
@@ -233,12 +221,6 @@
       <DependentUpon>Cotizacion.vb</DependentUpon>
     </Compile>
     <Compile Include="Formularios\Cotizacion.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Formularios\Editar_Cotizacion.Designer.vb">
-      <DependentUpon>Editar_Cotizacion.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Formularios\Editar_Cotizacion.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formularios\Parametros.Designer.vb">
@@ -335,9 +317,6 @@
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>CrystalReport1.vb</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\Editar_Factura.resx">
-      <DependentUpon>Editar_Factura.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\Factura.resx">
       <DependentUpon>Factura.vb</DependentUpon>
     </EmbeddedResource>
@@ -346,9 +325,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\ReporteFacturas.resx">
       <DependentUpon>ReporteFacturas.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\Seguridad_Usuarios.resx">
-      <DependentUpon>Seguridad_Usuarios.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\Seguridad_Anular_Factura.resx">
       <DependentUpon>Seguridad_Anular_Factura.vb</DependentUpon>
@@ -361,9 +337,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\Cotizacion.resx">
       <DependentUpon>Cotizacion.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\Editar_Cotizacion.resx">
-      <DependentUpon>Editar_Cotizacion.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\Parametros.resx">
       <DependentUpon>Parametros.vb</DependentUpon>

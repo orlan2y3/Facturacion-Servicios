@@ -66,5 +66,55 @@ Module Module1
         Return Cadena
     End Function
 
+    Function FechaValida(fecha As String) As Boolean
+        Dim Dia As String
+        Dim Mes As String
+        Dim Anio As String
+
+        Try
+
+            Dia = Mid(fecha, 1, 2) : Mes = Mid(fecha, 4, 2) : Anio = Mid(fecha, 7, 4)
+
+            If IsNumeric(Dia) Then
+                If CLng(Dia) > 31 Or CLng(Dia) < 1 Then
+                    Return False
+                End If
+            Else
+                Return False
+            End If
+
+            If IsNumeric(Mes) Then
+                If CLng(Mes) > 12 Or CLng(Mes) < 1 Then
+                    Return False
+                End If
+            Else
+                Return False
+            End If
+
+            If Not IsNumeric(Anio) Then
+                Return False
+            End If
+
+            If Len(Trim(Dia)) <> 2 Then
+                Return False
+            End If
+
+            If Len(Trim(Mes)) <> 2 Then
+                Return False
+            End If
+
+            If Len(Trim(Anio)) <> 4 Then
+                Return False
+            End If
+
+            Return True
+
+        Catch ex As Exception
+            MsgBox(ex.Message, vbInformation)
+            Return Nothing
+        End Try
+
+    End Function
+
 End Module
 

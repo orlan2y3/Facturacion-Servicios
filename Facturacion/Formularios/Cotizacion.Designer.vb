@@ -362,7 +362,6 @@ Partial Class Cotizacion
         Me.mtbfecha.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.mtbfecha.Location = New System.Drawing.Point(94, 20)
         Me.mtbfecha.Name = "mtbfecha"
-        Me.mtbfecha.ReadOnly = True
         Me.mtbfecha.Size = New System.Drawing.Size(71, 22)
         Me.mtbfecha.TabIndex = 1
         '

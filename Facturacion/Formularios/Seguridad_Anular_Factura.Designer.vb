@@ -117,7 +117,7 @@ Partial Class Seguridad_Anular_Factura
         Me.Name = "Seguridad_Anular_Factura"
         Me.ShowInTaskbar = False
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
-        Me.Text = "Seguridad"
+        Me.Text = "Seguridad 2"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

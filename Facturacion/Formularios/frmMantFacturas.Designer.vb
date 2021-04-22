@@ -170,7 +170,6 @@ Partial Class frmMantFacturas
         Me.mtbfecha.Location = New System.Drawing.Point(189, 20)
         Me.mtbfecha.Mask = "00/00/0000"
         Me.mtbfecha.Name = "mtbfecha"
-        Me.mtbfecha.ReadOnly = True
         Me.mtbfecha.Size = New System.Drawing.Size(69, 22)
         Me.mtbfecha.TabIndex = 184
         Me.mtbfecha.ValidatingType = GetType(Date)

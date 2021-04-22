@@ -60,7 +60,7 @@ Public Class frmMantFacturas
             cmbIdComprobante.Items.Clear()
 
             Dim dr As OleDbDataReader
-            Dim query As String = "SELECT id_tipo, descripcion  FROM NCF"
+            Dim query As String = "SELECT id_tipo, descripcion FROM NCF"
             Dim cmb As OleDbCommand = New OleDbCommand(query, DB.Cnn)
             dr = cmb.ExecuteReader()
             If dr.HasRows Then
@@ -797,32 +797,33 @@ Public Class frmMantFacturas
     End Sub
 
     Private Sub cmbIdComprobante_SelectedValueChanged(sender As Object, e As EventArgs) Handles cmbIdComprobante.SelectedValueChanged
-        Try
-            If cmbIdComprobante.Text <> "" Then
+        'Try
+        '    If cmbIdComprobante.Text <> "" Then
 
-                Dim dr As OleDbDataReader
-                Dim query As String = "SELECT sec, fijo FROM NCF WHERE id_tipo =" & cmbIdComprobante.Text
-                Dim cmb As OleDbCommand = New OleDbCommand(query, DB.Cnn)
-                dr = cmb.ExecuteReader()
-                If dr.HasRows Then
-                    dr.Read()
-                    NCF_Fijo = dr("fijo").ToString
-                    ncfsec = dr("sec") + 1
-                    txtnumcomprobante.Text = NCF_Fijo & ncfsec
-                    dr.Close()
-                Else
-                    dr.Close()
-                    txtnumcomprobante.Text = ""
-                End If
+        '        Dim dr As OleDbDataReader
+        '        Dim query As String = "SELECT sec, fijo FROM NCF WHERE id_tipo =" & cmbIdComprobante.Text
+        '        Dim cmb As OleDbCommand = New OleDbCommand(query, DB.Cnn)
+        '        dr = cmb.ExecuteReader()
+        '        If dr.HasRows Then
+        '            dr.Read()
+        '            NCF_Fijo = dr("fijo").ToString
+        '            ncfsec = dr("sec") + 1
+        '            txtnumcomprobante.Text = NCF_Fijo & ncfsec
+        '            dr.Close()
+        '        Else
+        '            dr.Close()
+        '            txtnumcomprobante.Text = ""
+        '        End If
 
-            Else
-                txtnumcomprobante.Text = ""
-            End If
+        '    Else
+        '        txtnumcomprobante.Text = ""
+        '    End If
 
-        Catch ex As Exception
-            MsgBox(ex.Message)
-            Return
-        End Try
+        'Catch ex As Exception
+        '    MsgBox(ex.Message)
+        '    Return
+        'End Try
 
     End Sub
+
 End Class

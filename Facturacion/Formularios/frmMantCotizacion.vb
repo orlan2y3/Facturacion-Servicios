@@ -235,6 +235,12 @@ Public Class frmMantCotizacion
                 Return
             End If
 
+            If Not FechaValida(mtbfecha.Text) Then
+                MsgBox("Esta fecha de factura no es valida", MsgBoxStyle.Information)
+                mtbfecha.Focus()
+                Return
+            End If
+
             Dim PorcientoItbis As Double = 0
             If cb1.Checked = True Then
                 PorcientoItbis = 0

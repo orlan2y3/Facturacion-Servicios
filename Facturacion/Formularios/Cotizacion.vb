@@ -240,6 +240,12 @@ Public Class Cotizacion
                 Return
             End If
 
+            If Not FechaValida(mtbfecha.Text) Then
+                MsgBox("Esta fecha de factura no es valida", MsgBoxStyle.Information)
+                mtbfecha.Focus()
+                Return
+            End If
+
             Dim dr As OleDbDataReader
             Dim PorcientoItbis As Double = 0
 
@@ -550,4 +556,5 @@ Public Class Cotizacion
             cb1.Font = New Font(cb1.Font, FontStyle.Regular)
         End If
     End Sub
+
 End Class
