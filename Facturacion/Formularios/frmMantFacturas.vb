@@ -171,8 +171,8 @@ Public Class frmMantFacturas
             LlenaTipoComprobantes()
             ncfsec = 0
 
-            Dim fecha As String = Date.Today.ToString("dd/MM/yyyy")
-            mtbfecha.Text = fecha
+            'Dim fecha As String = Date.Today.ToString("dd/MM/yyyy")
+            'mtbfecha.Text = fecha
             txtValida.Text = Valida
 
             txtporcientodescuento.Text = 0
@@ -429,6 +429,12 @@ Public Class frmMantFacturas
                 Return
             End If
 
+            If Not FechaValida(mtbfecha.Text) Then
+                MsgBox("Esta fecha de factura no es valida", MsgBoxStyle.Information)
+                mtbfecha.Focus()
+                Return
+            End If
+
             If rdb2.Checked = True Then
                 If cmbComprobantes.Text = "" Then
                     MsgBox("Si lleva comprobante, debe seleccionar el tipo", MsgBoxStyle.Information)
@@ -523,7 +529,7 @@ Public Class frmMantFacturas
 
             trans.Commit() : TA = False
 
-            mtbfecha.Text = Date.Today.ToString("dd/MM/yyyy")
+            'mtbfecha.Text = Date.Today.ToString("dd/MM/yyyy")
             MsgBox("Actualizado Con Éxito", MsgBoxStyle.Information)
 
         Catch ex As Exception

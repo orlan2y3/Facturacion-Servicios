@@ -241,7 +241,7 @@ Public Class Cotizacion
             End If
 
             If Not FechaValida(mtbfecha.Text) Then
-                MsgBox("Esta fecha de factura no es valida", MsgBoxStyle.Information)
+                MsgBox("Esta fecha de cotizacion no es valida", MsgBoxStyle.Information)
                 mtbfecha.Focus()
                 Return
             End If

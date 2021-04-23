@@ -101,8 +101,8 @@ Public Class frmMantCotizacion
         txtporcientodescuento.Text = 0
         txtdescuento.Text = 0.0
 
-        Dim fecha As String = Date.Today.ToString("dd/MM/yyyy")
-        mtbfecha.Text = fecha
+        'Dim fecha As String = Date.Today.ToString("dd/MM/yyyy")
+        'mtbfecha.Text = fecha
 
         txtporcientoitbis.Text = DTO.porciento_itebis
 
@@ -236,7 +236,7 @@ Public Class frmMantCotizacion
             End If
 
             If Not FechaValida(mtbfecha.Text) Then
-                MsgBox("Esta fecha de factura no es valida", MsgBoxStyle.Information)
+                MsgBox("Esta fecha de cotizacion no es valida", MsgBoxStyle.Information)
                 mtbfecha.Focus()
                 Return
             End If
@@ -304,7 +304,7 @@ Public Class frmMantCotizacion
 
             trans.Commit() : TA = False
 
-            mtbfecha.Text = Date.Today.ToString("dd/MM/yyyy")
+            'mtbfecha.Text = Date.Today.ToString("dd/MM/yyyy")
 
             MsgBox("Grabado Con Éxito", MsgBoxStyle.Information)
 

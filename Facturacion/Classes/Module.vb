@@ -69,41 +69,29 @@ Module Module1
     Function FechaValida(fecha As String) As Boolean
         Dim Dia As String
         Dim Mes As String
-        Dim Anio As String
+        Dim Ano As String
 
         Try
 
-            Dia = Mid(fecha, 1, 2) : Mes = Mid(fecha, 4, 2) : Anio = Mid(fecha, 7, 4)
+            Dia = Mid(fecha, 1, 2) : Mes = Mid(fecha, 4, 2) : Ano = Mid(fecha, 7, 4)
 
-            If IsNumeric(Dia) Then
-                If CLng(Dia) > 31 Or CLng(Dia) < 1 Then
-                    Return False
-                End If
-            Else
+            If Len(Trim(Dia)) <> 2 Or Not IsNumeric(Dia) Then
                 Return False
             End If
 
-            If IsNumeric(Mes) Then
-                If CLng(Mes) > 12 Or CLng(Mes) < 1 Then
-                    Return False
-                End If
-            Else
+            If Len(Trim(Mes)) <> 2 Or Not IsNumeric(Mes) Then
                 Return False
             End If
 
-            If Not IsNumeric(Anio) Then
+            If Len(Trim(Ano)) <> 4 Or Not IsNumeric(Ano) Then
                 Return False
             End If
 
-            If Len(Trim(Dia)) <> 2 Then
+            If CLng(Dia) > 31 Or CLng(Dia) < 1 Then
                 Return False
             End If
 
-            If Len(Trim(Mes)) <> 2 Then
-                Return False
-            End If
-
-            If Len(Trim(Anio)) <> 4 Then
+            If CLng(Mes) > 12 Or CLng(Mes) < 1 Then
                 Return False
             End If
 
@@ -113,6 +101,7 @@ Module Module1
             MsgBox(ex.Message, vbInformation)
             Return Nothing
         End Try
+
 
     End Function
 
